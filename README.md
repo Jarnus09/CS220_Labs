@@ -1,2 +1,2 @@
 # CS220_Labs
-This is a collection of the Lab Assignments done under the CS220 course
+This repository contains the code for the labs done in the CS220 (Computer Organisation) course and the code for a Verilog HDL Processor implementation.
